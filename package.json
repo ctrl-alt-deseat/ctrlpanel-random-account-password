@@ -1,0 +1,15 @@
+{
+  "name": "@ctrlpanel/random-account-password",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "ctrl-alt-deseat/ctrlpanel-random-account-password",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "dependencies": {
+    "get-random-byte": "^1.0.1"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
