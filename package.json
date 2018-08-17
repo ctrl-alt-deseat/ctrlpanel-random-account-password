@@ -1,6 +1,6 @@
 {
   "name": "@ctrlpanel/random-account-password",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": "ctrl-alt-deseat/ctrlpanel-random-account-password",
   "scripts": {
